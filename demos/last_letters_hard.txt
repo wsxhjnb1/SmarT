@@ -1,0 +1,35 @@
+Q: Take the last letters of the words in "Elon Musk" and concatenate them.
+A: Write down the fisrt word "Elon" in separate letters: "E l o n".
+Take the last letter of "E l o n", which is "n".
+Write down the Second word "Musk" in separate letters: "M u s k".
+Take the last letter of "M u s k", which is "k".
+Concatenate the last letters "n" and "k" together.
+The concatenation of the last letters "n" and "k" is "n" + "k" = "nk".
+Same with the concatenation result "nk", the answer is nk.
+
+Q: Take the last letters of the words in "Larry Page" and concatenate them.
+A: Write down the fisrt word "Larry" in separate letters: "L a r r y".
+Take the last letter of "L a r r y", which is "y".
+Write down the Second word "Page" in separate letters: "P a g e".
+Take the last letter of "P a g e", which is "e".
+Concatenate the last letters "y" and "e" together.
+The concatenation of the last letters "y" and "e" is "y" + "e" = "ye".
+Same with the concatenation result "ye", the answer is ye.
+
+Q: Take the last letters of the words in "Sergey Brin" and concatenate them.
+A: Write down the fisrt word "Sergey" in separate letters: "S e r g e y".
+Take the last letter of "S e r g e y", which is "y".
+Write down the Second word "Brin" in separate letters: "B r i n".
+Take the last letter of "B r i n", which is "n".
+Concatenate the last letters "y" and "n" together.
+The concatenation of the last letters "y" and "n" is "y" + "n" ="yn".
+Same with the concatenation result "yn", the answer is yn.
+
+Q: Take the last letters of the words in "Bill Gates" and concatenate them.
+A: Write down the fisrt word "Bill" in separate letters: "B i l l".
+Take the last letter of "B i l l", which is "l".
+Write down the Second word "Gates" in separate letters: "G a t e s".
+Take the last letter of "G a t e s", which is "s".
+Concatenate the last letters "l" and "s" together.
+The concatenation of the last letters "l" and "s" is "l" + "s" = "ls".
+Same with the concatenation result "ls", the answer is ls.

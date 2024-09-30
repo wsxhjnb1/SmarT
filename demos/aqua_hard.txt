@@ -1,0 +1,30 @@
+Q: John found that the average of 15 numbers is 40. If 10 is added to each number then the mean of the numbers is?
+Answer Choices: (A) 50 (B) 45 (C) 65 (D) 78 (E) 64
+A: 10 is added to each number of the 15 numbers, so the mean of the 15 numbers also increases by 10.
+The average of 15 numbers is 40, so the original sum of the 15 numbers is 15 * 40 = 600.
+Adding 10 to each number of the 15 numbers, so the new sum of the 15 numbers is 600 + 10 * 15 = 750.
+The new sum of the 15 numbers is 75, so the new mean of the 15 numbers is 750 / 15 = 50.
+Therefore, the answer is (A) 50.
+
+Q: If a / b = 3/4 and 8a + 5b = 22,then find the value of a.
+Answer Choices: (A) 1/2 (B) 3/2 (C) 5/2 (D) 4/2 (E) 7/2
+A: a / b = 3/4, so b = 4a / 3.
+b = 4a / 3 and 8a + 5b = 22, so 8a + 5(4a / 3) = 22.
+8a + 5(4a / 3) = 22, so 8a + 20a / 3 = 22.
+8a + 20a / 3 = 22, so 44a / 3 = 22.
+44a / 3 = 22, so a is equal to 3/2.
+Therefore, the answer is (B) 3/2.
+
+Q: A person is traveling at 20 km/hr and reached his destiny in 2.5 hr then find the distance?
+Answer Choices: (A) 53 km (B) 55 km (C) 52 km (D) 60 km (E) 50 km
+A: The person traveling 20 km/hr and reached his destiny in 2.5 hr, so the distance have been 20 km/hr * 2.5 hrs.
+The distance have been 20 km/hr * 2.5 hrs, so the distance = 50 km
+Therefore, the answer is (E) 50 km.
+
+Q: How many keystrokes are needed to type the numbers from 1 to 500?
+Answer Choices: (A) 1156 (B) 1392 (C) 1393 (D) 1562 (E) 1788
+A: There are 9 single-digit numbers (1-9), which require 1 keystrokes for each digit, so the number of keystrokes for single-digit numbers is 9 * 1 = 9.
+There are 90 two-digit numbers (10-99), which require 2 keystrokes for each digit, so the number of keystrokes for two-digit numbers is 90 * 2 = 180.
+There are 401 three-digit numbers (100-500), which require 3 keystrokes for each digit, so the number of keystrokes for three-digit numbers is 401 * 3 = 1203.
+The number of keystrokes for single-digit numbers, two-digit numbers, and three-digit numbers is 9, 180, and 1203, respectively, so the total number of keystrokes is 9 + 180 + 1203 = 1392.
+Therefore, the answer is (B) 1392.

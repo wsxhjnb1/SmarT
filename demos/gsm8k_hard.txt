@@ -1,0 +1,69 @@
+Q: There are 15 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 21 trees. How many trees did the grove workers plant today?
+A: There are 15 trees in the grove originally.
+Then there were 21 trees in the grove after the Grove workers planted some more trees in the grove.
+The num of current trees are 21.
+The num of original trees are 15.
+So there must have been 21 current trees - 15 original trees = 6 trees that were planted by grove workers in the grove.
+Therefore, the answer is 6.
+
+Q: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?
+A: There are originally 3 cars in the parking lot.
+Then 2 more cars arrive at the parking lot.
+So, there are 3 original cars and 2 newly arrived cars in the parking lot.
+Now 3 original cars + 2 newly arrived cars = 5 cars are in the parking lot.
+Therefore, the answer is 5.
+
+Q: Leah had 32 chocolates and her sister had 42. If they ate 35, how many pieces do they have left in total?
+A: Originally, Leah had 32 chocolates and Leah's sister had 42 chocolates.
+So in total Leah and Leah's sister had 32 chocolates + 42 chocolates = 74 chocolates.
+Leah and Leah's sister eating 35 chocolates of the 74 chocolates.
+The num of chocolates Leah and Leah's sister originally had are 74.
+The num of chocolates Leah and Leah's sister eat are 35.
+So, Leah and Leah's sister had 74 chocolates - 35 chocolates = 39 chocolates pieces left in total.
+Therefore, the answer is 39.
+
+Q: Jason had 20 lollipops. He gave Denny some lollipops. Now Jason has 12 lollipops. How many lollipops did Jason give to Denny?
+A: Jason had 20 lollipops originally.
+Jason giving some lollipops to Denny.
+Then Jason had 12 lollipops after Jason giving some lollipops to Denny.
+So Jason gave Denny 20 lollipops - 12 lollipops = 8 lollipops.
+Therefore, the answer is 8.
+
+Q: Shawn has five toys. For Christmas, he got two toys each from his mom and dad. How many toys does he have now?
+A: Shawn started with 5 toys.
+Shawn then got 2 toys from Shawn's mom.
+Now Shawn has 5 toys + 2 toys = 7 toys.
+Shawn then also got 2 toys from Shawn's dad.
+Now Shawn has 7 toys + 2 toys = 9 toys.
+Therefore, the answer is 9.
+
+Q: There were nine computers in the server room. Five more computers were installed each day, from monday to thursday. How many computers are now in the server room?
+A: There were originally 9 computers in the server room.
+For each day from monday to thursday, 5 more computers were installed in the server room.
+From monday to thursday, there are 4 days: Monday, Tuesday, Wednesday, Thursday.
+So 4 * 5 computers = 20 computers were added in the server room.
+The num of original computers are 9.
+The num of newly added computers are 20.
+So, now 9 computers + 20 computers = 29 computers are now in the server room.
+Therefore, the answer is 29.
+
+Q: Michael had 58 golf balls. On tuesday, he lost 23 golf balls. On wednesday, he lost 2 more. How many golf balls did he have at the end of wednesday?
+A: Michael started with 58 golf balls.
+Michael lost 23 golf balls on Tuesday.
+The num of original golf balls are 58.
+The lost num of golf balls on Tuesday are 23.
+So, Michael had 58 golf balls - 23 golf balls = 35 golf balls at the end of Tuesday.
+Michael lost 2 golf balls more on wednesday.
+The num of golf balls at the end of Tuesday are 35.
+The lost num of golf balls on wednesday are 2.
+So, Michael had 35 golf balls - 2 golf balls = 33 golf balls at the end of wednesday.
+Therefore, the answer is 33.
+
+Q: Olivia has $23. She bought five bagels for $3 each. How much money does she have left?
+A: Olivia had 23 dollars.
+Olivia bought 5 bagels for 3 dollars each.
+So Olivia spent 5 * 3 dollars = 15 dollars.
+The num of orginal dollars Olivia had are 23.
+The num of dollars Olivia spent are 15.
+Now Olivia has 23 dollars - 15 dollars = 8 dollars left.
+Therefore, the answer is 8.
