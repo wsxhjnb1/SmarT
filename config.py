@@ -43,7 +43,7 @@ def parse_arguments():
                  "last_letters", "FinQA", "TATQA", "ConvFinQA", "StrategyQA"]
     )
     parser.add_argument(
-        "--engine", default='gpt-3.5-turbo-0613',
+        "--engine", default='gpt-3.5-turbo',
         choices=['gpt-3.5-turbo-0613','gpt-3.5-turbo','llama2_7b_chat','llama2_13_chat','llama2_70b_chat']
     )
     parser.add_argument(
